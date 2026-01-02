@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Modern Python library for KEF LS50 Wireless and LSX speakers"
 readme = "README.md"
 authors = [{ name = "Grégoire Simonnet", email = "drier-dowry-duo@duck.com" }]
+license = "MIT"
 requires-python = ">=3.12"
 dependencies = []
 
