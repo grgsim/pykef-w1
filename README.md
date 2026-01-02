@@ -20,6 +20,18 @@ Modern Python library for KEF LS50 Wireless and LSX speakers.
 
 > **Note:** This library does not support LS50 Wireless II, LSX II, or other newer KEF models which use a different protocol.
 
+## Installation
+
+```bash
+pip install pykef-w1
+```
+
+Or with [uv](https://github.com/astral-sh/uv):
+
+```bash
+uv add pykef-w1
+```
+
 ## Quick Start
 
 ### Async Usage
