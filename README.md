@@ -115,6 +115,9 @@ See [docs/PROTOCOL.md](docs/PROTOCOL.md) for the complete protocol specification
 # Install dependencies
 uv sync
 
+# Run tests
+uv run pytest
+
 # Run linter
 uv run ruff check .
 
